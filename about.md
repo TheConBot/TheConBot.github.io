@@ -21,3 +21,5 @@ Hey, I’m Connor Botts, thanks for stopping by! I’m a 20 year old game-design
 If you are interested in contacting me, you can do so via [email](mailto:{{ site.email }}) or [Twitter](https://twitter.com/{{ site.twitter_username }})!
 
 Thanks to [@nathanwentworth](https://twitter.com/nathanwentworth) for creating this website!
+
+<!-- Please publish -->
