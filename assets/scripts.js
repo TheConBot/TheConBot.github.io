@@ -5,6 +5,7 @@ var inputText = 'A Collection of Game Design and Creative Programming';
 function Scramble() {
 	var inputArr = inputText.split('');
 	for (var i = inputArr.length - 1; i >= 0; i--) {
+		if(inputArr[i] == ' ') { continue; }
 		var rand = Math.floor(Math.random() * (characters.length - 0 + 1) + 0);
 		inputArr[i] = characters[rand];
 	}

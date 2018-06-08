@@ -3,10 +3,7 @@ layout: about
 title: About Me
 permalink: /about/
 ---
-
-![Connor Botts]({{ site.github.url }}/img/me-576x1024.png)
-
-Hey, I’m Connor Botts, thanks for stopping by! I’m a 21 year old game-designer / programmer / student who likes to make fun and awesome games. Some of my specialities and skills are:
+Hey, I’m Connor Botts, thanks for stopping by! I’m a 21 year old game-designer / programmer who likes to make fun and awesome games. Some of my specialities and skills are:
 
 ### General
 * Being Tall
