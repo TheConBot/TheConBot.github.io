@@ -8,23 +8,23 @@ permalink: /about/
 
 Hey, I’m Connor Botts, thanks for stopping by! I’m a 21 year old game-designer / programmer / student who likes to make fun and awesome games. Some of my specialities and skills are:
 
-## General
+### General
 * Being Tall
 * Team Leadership / Management
 
-## Languages
+### Languages
 * C#
 * CSS
 * HTML
 * Javascript
 * Python
 
-## Source Control
+### Source Control
 * Git
 * Git LFS
 * SVN
 
-## Game Engines
+### Game Engines
 * Godot
 * Unity3D
 * Unreal 4
