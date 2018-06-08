@@ -6,17 +6,28 @@ permalink: /about/
 
 ![Connor Botts]({{ site.github.url }}/img/me-576x1024.png)
 
-Hey, I’m Connor Botts, thanks for stopping by! I’m a 20 year old game-designer / programmer / student who likes to make fun and awesome games. Some of my specialities and skills are:
+Hey, I’m Connor Botts, thanks for stopping by! I’m a 21 year old game-designer / programmer / student who likes to make fun and awesome games. Some of my specialities and skills are:
 
+## General
 * Being Tall
+* Team Leadership / Management
+
+## Languages
 * C#
-* Git
-* Java
-* Level Design
+* CSS
+* HTML
+* Javascript
 * Python
-* Ruby
-* Team Leadership/Management
-* Unity
+
+## Source Control
+* Git
+* Git LFS
+* SVN
+
+## Game Engines
+* Godot
+* Unity3D
+* Unreal 4
 
 If you are interested in contacting me, you can do so via [email](mailto:{{ site.email }}) or [Twitter](https://twitter.com/{{ site.twitter_username }})!
 
