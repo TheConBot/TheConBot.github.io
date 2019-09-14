@@ -6,7 +6,7 @@ layout: default
 
   {{ content }}
 
-  <h2 class="page-heading">Featured Work</h2>
+  <h2 class="page-heading">Featured</h2>
 
   <ul class="post-list">
     {% for post in site.tags.featured %}
@@ -16,7 +16,7 @@ layout: default
     {% endfor %}
   </ul>
 
-  <h2 class="page-heading">All Works</h2>
+  <h2 class="page-heading">Games</h2>
 
   <ul class="post-list">
     {% for post in site.posts %}
@@ -27,5 +27,14 @@ layout: default
       <li class="half-width">
         <a class="post-link" href="https://theconbot.itch.io/"><img src="{{ site.github.url }}/img/more.png"></a>
       </li>
+  </ul>
+
+  <h2 class="page-heading">Tools</h2>
+  <ul class="post-list">
+    {% for post in site.categories.tool %}
+      <li class="half-width">
+          <a class="post-link" href="{{ post.url | relative_url }}"><img src="{{ site.github.url }}{{ post.image }}"></a>
+      </li>
+    {% endfor %}
   </ul>
 </div>

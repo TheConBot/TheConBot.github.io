@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Outerworld Image"
-date:   2017-01-26 20:08:37 -0500
+date:   2017-06-26 20:08:37 -0500
 categories: game
 image: /img/outerworld-image/OWI_Banner-opt.jpg
 tags: game
@@ -16,9 +16,14 @@ Outerworld Image is a surreal, meditative photography game. Walk around a neon p
 
 My contributions on this project included:
 
-* Game Design
-* Level Design
-* Programming (C#)
+Design:
+* Gameplay
+* Level
+* UI/UX
+
+Programming (C#):
+* Gameplay
+* UI
 
 ![Outerworld Image 1]({{ site.github.url }}/img/outerworld-image/OWI_1.png)
 ![Outerworld Image 2]({{ site.github.url }}/img/outerworld-image/OWI_2.png)

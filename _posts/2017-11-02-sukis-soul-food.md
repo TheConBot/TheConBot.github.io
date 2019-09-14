@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Suki's Soul Food"
-date:   2017-01-26 20:08:37 -0500
+date:   2017-11-02 20:08:37 -0500
 categories: game
 image: /img/sukis-soul-food/Suki-Cover.png
-tags: featured game
+tags: game
 ---
 Suki's Soul Food is a point-and-click cooking game about running a food truck for cats! 
 
@@ -14,9 +14,13 @@ Make crazy dishes with weird names for your fuzzy friend customers, but keep an 
 
 My contributions on this project included:
 
-* Game Design
-* Level Design
-* Programming (C#)
+Design:
+* Gameplay
+* UI/UX
+
+Programming (C#):
+* Gameplay
+* UI
 
 ![Suki's Soul Food 1]({{ site.github.url }}/img/sukis-soul-food/Suki-1.png)
 ![Suki's Soul Food 2]({{ site.github.url }}/img/sukis-soul-food/Suki-2.png)
