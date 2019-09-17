@@ -3,7 +3,7 @@ layout: about
 title: About Me
 permalink: /about/
 ---
-Hey, I’m Connor Botts, thanks for stopping by! I’m a 21 year old game-designer / programmer who likes to make fun and awesome games. Some of my specialities and skills are:
+Hey, I’m Connor Botts, thanks for stopping by! I’m a 23 year old game-designer / programmer who likes to make fun and awesome games. Some of my specialities and skills are:
 
 
 * Being Tall
