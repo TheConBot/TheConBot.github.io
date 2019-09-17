@@ -20,6 +20,9 @@ layout: default
 
   <ul class="post-list">
     {% for post in site.categories.game %}
+      {% if post.tags contains "featured" %}
+        {% continue %}
+      {% endif %}
       <li class="half-width">
           <a class="post-link" href="{{ post.url | relative_url }}"><img src="{{ site.github.url }}{{ post.image }}"></a>
       </li>
@@ -32,6 +35,9 @@ layout: default
   <h2 class="page-heading">Tools</h2>
   <ul class="post-list">
     {% for post in site.categories.tool %}
+      {% if post.tags contains "featured" %}
+        {% continue %}
+      {% endif %}
       <li class="half-width">
           <a class="post-link" href="{{ post.url | relative_url }}"><img src="{{ site.github.url }}{{ post.image }}"></a>
       </li>
