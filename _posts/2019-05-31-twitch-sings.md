@@ -3,7 +3,7 @@ layout: post
 title:  "Twitch Sings"
 date:   2019-05-31 20:08:37 -0500
 categories: game
-image: /img/twitch-sings/Twitch-Cover.PNG
+image: /img/twitch-sings/Twitch-Cover.png
 tags: featured game
 ---
 Twitch Sings is a karaoke game built specifically to be streamed on Twitch. With live singing, multiplayer modes, and features that let chat direct the show, the game lets you and your community make one-of-a-kind performances together. This project was made in collaboration with Twitch, Harmonix, and Free Range Games.
@@ -18,5 +18,5 @@ Programming (C#, Javascript):
 * UI (C#)
 * Backend (Javascript)
 
-![Twitch Sings 1]({{ site.github.url }}/img/twitch=sings/twitch-1.PNG)
-![Twitch Sings 2]({{ site.github.url }}/img/twitch=sings/twitch-2.png)
+![Twitch Sings 1]({{ site.github.url }}/img/twitch-sings/twitch-1.png)
+![Twitch Sings 2]({{ site.github.url }}/img/twitch-sings/twitch-2.png)
