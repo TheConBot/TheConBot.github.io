@@ -5,14 +5,14 @@ permalink: /about/
 ---
 Hey, I’m Connor Botts, thanks for stopping by! I’m a 23 year old game-designer / programmer who likes to make fun and awesome games.
 
-## Things I'm Really Good At
+#### Things I'm Really Good At:
 * Being Tall
 * C#
 * Git
 * Project Leadership / Management
 * Unity3D
 
-## Things I Can Do
+#### Things I Can Do:
 * CSS
 * HTML
 * Javascript
