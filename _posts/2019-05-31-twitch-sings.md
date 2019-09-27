@@ -16,7 +16,7 @@ Twitch Sings is a karaoke game built specifically to be streamed on Twitch. With
 ### Contributions
 My contributions on this project included helping to develop the foundation and initial implementation of Party Mode, which allows players to join a realtime karaoke session with their friends. This included:
 
-####Programming (C#, Javascript):
+#### Programming (C#, Javascript):
 * UI (C#)
 * Backend (Javascript)
 

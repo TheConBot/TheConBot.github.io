@@ -15,15 +15,15 @@ CAT (Conditions, Actions, and Triggers) Game Builder is a fully extendable frame
 
 ### Contributions
 
-####Production:
+#### Production:
 * Creating Tutorial Videos
 
-####Design:
+#### Design:
 * Conceiving Built-In CATS
 * Creating Example Games using the Framework
 * Framework UX Improvements
 
-####Programming (C#, Python):
+#### Programming (C#, Python):
 * Creating CATs (C#)
 * Core Framework Development (C#)
 * Automatic Documentation Generator (Python)

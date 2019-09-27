@@ -15,7 +15,7 @@ Treat Fighter is a blockchain idle game where every player's actions are guarant
 
 ### Contributions
 
-####Programming (CAT Game Builder, C#):
+#### Programming (CAT Game Builder, C#):
 * UI (CAT)
 * Blockchain Server Bug Fixes (C#)
 

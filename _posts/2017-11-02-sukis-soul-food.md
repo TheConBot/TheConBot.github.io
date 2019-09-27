@@ -16,11 +16,11 @@ Make crazy dishes with weird names for your fuzzy friend customers, but keep an 
 
 ### Contributions
 
-####Design:
+#### Design:
 * Gameplay
 * UI/UX
 
-####Programming (C#):
+#### Programming (C#):
 * Gameplay
 * UI
 
