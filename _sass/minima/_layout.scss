@@ -287,6 +287,11 @@ iframe{
 .header-image {
   margin-top: 1rem;
 }
+.flex-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;    
+}
 
 .post-content {
   margin-bottom: $spacing-unit;
@@ -321,6 +326,7 @@ iframe{
     display: block;
     margin: $spacing-unit auto;
   }
+
 
 }
 
