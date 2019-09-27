@@ -288,9 +288,14 @@ iframe{
   margin-top: 1rem;
 }
 .flex-container {
-  display: flex;
-  justify-content: flex-start;
-  align-items: flex-start;    
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 32px;
+}
+
+.center {
+  margin: auto;
+  text-align: center;
 }
 
 .post-content {
