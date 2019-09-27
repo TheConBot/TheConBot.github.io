@@ -6,6 +6,7 @@ categories: game
 image: /img/friender-bender/FB_Cover.png
 tags: game
 ---
+### Description
 Friender Bender is a local-multiplayer sabotage driving game, where up to 4 players take turns controlling 1 car, avoiding obstacles and navigating 2 increasingly crazy courses.
 
 >"Backseat drivers finally have an outlet for their frustration" 
@@ -18,19 +19,23 @@ Friender Bender is a local-multiplayer sabotage driving game, where up to 4 play
 
 <iframe frameborder="2" src="https://itch.io/embed/97545?linkback=true&amp;border_width=0&amp;bg_color=00A5E5&amp;fg_color=eeeeee&amp;border_color=0080FF" width="550" height="165"></iframe>
 
-My contributions on this project included:
+<div style = "height:50px"></div>
 
-Production:
+### Contributions
+
+####Production:
 * Co-Producer
 
-Design:
+####Design:
 * Gameplay
 * Level
 * UI/UX
 
-Programming (C#):
+####Programming (C#):
 * Gameplay
 * UI/UX
+
+<div style = "height:50px"></div>
 
 ![Friender Bender 1]({{ site.github.url }}/img/friender-bender/FB (1).png)
 ![Friender Bender 2]({{ site.github.url }}/img/friender-bender/FB (2).png)

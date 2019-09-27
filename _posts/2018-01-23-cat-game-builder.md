@@ -6,26 +6,29 @@ categories: tool
 image: /img/cat-game-builder/CAT-Cover.png
 tags: tool
 ---
+### Description
 CAT (Conditions, Actions, and Triggers) Game Builder is a fully extendable framework designed for use by professional teams yet easy enough for beginners to master. Using a similar workflow and design to built-in Unity components, CAT Game Builder seamlessly extends the Unity editor to become a complete game making tool. Its power, ease of use, and versatility make CAT an excellent choice for individuals and teams of all sizes.
 
 [Buy CAT Game Builder on the Unity Asset Store!](https://assetstore.unity.com/packages/tools/visual-scripting/cat-game-builder-104577)
 
+<div style = "height:50px"></div>
 
+### Contributions
 
-My contributions on this project included:
-
-Production:
+####Production:
 * Creating Tutorial Videos
 
-Design:
+####Design:
 * Conceiving Built-In CATS
 * Creating Example Games using the Framework
 * Framework UX Improvements
 
-Programming (C#, Python):
+####Programming (C#, Python):
 * Creating CATs (C#)
 * Core Framework Development (C#)
 * Automatic Documentation Generator (Python)
+
+<div style = "height:50px"></div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sMFnCcmiRDQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ![CAT 1]({{ site.github.url }}/img/cat-game-builder/CAT-1.jpg)
