@@ -3,23 +3,22 @@ layout: about
 title: About Me
 permalink: /about/
 ---
-Hey, I’m Connor Botts, thanks for stopping by! I’m a 23 year old game-designer / programmer who likes to make fun and awesome games.
+Hey, I’m Connor Botts, thanks for stopping by! I’m a 25 year old software developer who likes to make fun and awesome games.
 
 #### I'm Really Good At:
-* Being Tall
+* Being Tall (I'm 6'5")
 * C#
 * Git
-* Project Leadership / Management
+* Plastic SCM
+* Project Management
 * Unity3D
 
 #### I Can Do:
-* CSS
-* HTML
+* Apache Subversion
+* Java
 * Javascript
 * Perforce
 * Python
-* SVN
-* Unreal 4
 
 
 <!-- Please publish -->
