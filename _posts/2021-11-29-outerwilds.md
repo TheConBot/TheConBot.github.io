@@ -7,7 +7,9 @@ image: /img/outerwilds/OuterWildsBanner.png
 tags: featured game
 ---
 ### Description
-Outer Wilds is an award winning, action-adventure, space exploration game where the sun explodes every 21 minutes and it's up to the player to unravel the mysteries of the solar system as to stop this from happening. I worked on this project as a contractor with Unity Technologies, Mobius Digital, and Annapurna Interactive while at Tricky Fast Studios, and thereafter through my own venture Moon Shark Software. I was brought on to assist with porting the game to the Nintendo Switch, but ended up touching many other aspects of the project while doing so including the DLC Echoes of the Eye and foundational work to the core game that was released as a free update to every platform.
+Outer Wilds is an award winning, action-adventure, space exploration game where the sun explodes every 21 minutes and it's up to the player to unravel the mysteries of the solar system as to stop this from happening. I worked on this project as a contractor with Unity Technologies, Mobius Digital, and Annapurna Interactive while at Tricky Fast Studios, and thereafter through my own venture Moon Shark Software. 
+
+I was brought on to assist with porting the game to the Nintendo Switch, but ended up touching many other aspects of the project while doing so including the DLC Echoes of the Eye and foundational work to the core game that was released as a free update to every platform.
 
 As of February 2023 the Switch port for Outer Wilds is still in development, however you can [Play](https://store.steampowered.com/app/753640/Outer_Wilds/) Outer Wilds on PC, Xbox One, Xbox Series X/S PlayStation 4, or PlayStation 5 today!
 
