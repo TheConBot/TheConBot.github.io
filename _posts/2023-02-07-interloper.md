@@ -4,7 +4,7 @@ title:  "interloper"
 date:   2021-01-29 20:08:37 -0500
 categories: game
 image: /img/interloper/InterloperBanner.png
-tags: featured game
+tags: game
 ---
 ### Description
 Interloper follows one funghi's journey as they attempt to consume a mycelial network. Featuring an original soundtrack, sound design, and art assets, Interloper is an ambitious, yet slim take on the "Tactics" style game.
