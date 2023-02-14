@@ -2,7 +2,7 @@
 layout: post
 title:  "Drop_Block!"
 date:   2016-10-26 20:08:37 -0500
-categories: game
+categories: archived
 image: /img/drop-block/Drop_Block_Banner-opt.jpg
 tags: game
 ---

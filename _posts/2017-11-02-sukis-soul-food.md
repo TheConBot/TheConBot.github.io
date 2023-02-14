@@ -2,7 +2,7 @@
 layout: post
 title:  "Suki's Soul Food"
 date:   2017-11-02 20:08:37 -0500
-categories: game
+categories: archived
 image: /img/sukis-soul-food/Suki-Cover.png
 tags: game
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Outerworld Image"
 date:   2017-06-26 20:08:37 -0500
-categories: game
+categories: archived
 image: /img/outerworld-image/OWI_Banner-opt.jpg
 tags: game
 ---
