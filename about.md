@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 Hey, I’m Connor Botts, thanks for stopping by! I’m a 26 year old game designer, software engineer, and solutions architect who likes to make enjoyable and immersive experiences for humans of all ages and backgrounds.
-
+<div style = "height:50px"></div>
 ### Skills
 
 #### Design
