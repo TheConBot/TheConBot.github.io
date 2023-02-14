@@ -9,7 +9,7 @@ tags: game
 ### Description
 Treat Fighter is a blockchain idle game where every player's actions are guaranteed and validated by strong cryptography. You cook up Treats to do your bidding. They collect precious candies and fight for your amusement in the Coliseum. Trade Treats with other players, or deconstruct underperforming Treats to extract candy from them. Domination is the name of the game in the land of Canedoom.
 
-[Play Treat Fighter today!](http://www.treatfighter.com/)
+Treat Fighter is unfortunately no longer available to play.
 
 <div style ="height:50px"></div>
 
