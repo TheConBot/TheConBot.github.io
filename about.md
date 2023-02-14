@@ -3,22 +3,31 @@ layout: about
 title: About Me
 permalink: /about/
 ---
-Hey, I’m Connor Botts, thanks for stopping by! I’m a 26 year old software developer who likes to make fun and awesome games.
+Hey, I’m Connor Botts, thanks for stopping by! I’m a 26 year old game designer, software engineer, and solutions architect who likes to make enjoyable and immersive experiences for humans of all ages and backgrounds.
 
-#### I'm Really Good At:
-* Being Tall (I'm 6'5")
+### Skills
+
+#### Design
+* RESTful APIs
+* Gameplay
+* UX
+
+#### Programming Languages
 * C#
-* Git
-* Plastic SCM
-* Project Management
-* Unity3D
-
-#### I Can Do:
-* Apache Subversion
+* Python
 * Java
 * Javascript
+
+#### Other
+* Being Tall (I'm 6'5")
+* Project Management
+
+#### Source Control
+* Git
 * Perforce
-* Python
+* Plastic
+* Subversion
 
-
-<!-- Please publish -->
+#### Tools
+* Postman
+* Unity
