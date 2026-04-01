@@ -16,7 +16,7 @@ Twitch Sings was unfortunately shut down in 2021. However, there are [plenty of 
 ### Contributions
 My contributions on this project included helping to develop the foundation and initial implementation of Party Mode, which allows players to join a realtime karaoke session with their friends. This included:
 
-#### Programming (C#, Javascript):
+#### Engineering (C#, Javascript):
 * UI/UX Engineering (C#)
 * Backend Development (Javascript)
 

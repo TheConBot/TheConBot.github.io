@@ -18,7 +18,7 @@ As of February 2023 the Switch port for Outer Wilds is still in development, how
 ### Contributions
 My main contributions on this project included:
 
-#### Programming (C#):
+#### Engineering (C#):
 * Refactoring large parts of the game's source code to support an additional platform (Nintendo Switch)
 * Implementing the Nintendo SDK to support Nintendo Switch features such as Joy Con and Pro Controller input 
 * Refactoring the save system for every supported platform to move from binary saves to JSON based saves without breaking backwards compatibility 

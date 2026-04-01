@@ -15,7 +15,7 @@ Treat Fighter is unfortunately no longer available to play.
 
 ### Contributions
 
-#### Programming (CAT Game Builder, C#):
+#### Engineering (CAT Game Builder, C#):
 * UI (CAT)
 * Blockchain Server Bug Fixes (C#)
 

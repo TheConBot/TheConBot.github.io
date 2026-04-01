@@ -18,7 +18,7 @@ Check out our Global Game Jam [entry page](https://globalgamejam.org/2023/games/
 #### Design:
 * Game/Mechanics Design
 
-#### Programming (C#):
+#### Engineering (C#):
 * Gameplay
 * UI
 

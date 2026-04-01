@@ -31,7 +31,7 @@ Friender Bender is a local-multiplayer sabotage driving game, where up to 4 play
 * Level
 * UI/UX
 
-#### Programming (C#):
+#### Engineering (C#):
 * Gameplay
 * UI/UX
 

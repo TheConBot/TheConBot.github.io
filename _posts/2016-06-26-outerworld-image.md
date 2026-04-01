@@ -23,7 +23,7 @@ Outerworld Image is a surreal, meditative photography game. Walk around a neon p
 * Level
 * UI/UX
 
-#### Programming (C#):
+#### Engineering (C#):
 * Gameplay
 * UI
 
