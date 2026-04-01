@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PeopleFun Platform Tech"
-date:   2026-04-01 20:08:37 -0500
+date:   2026-04-01 12:00:00 -0500
 categories: tool
 image: /img/platform-tech/platform-tech-cover.jpg
 tags: featured tool

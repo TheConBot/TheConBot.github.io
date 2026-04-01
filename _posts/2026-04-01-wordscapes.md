@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wordscapes"
-date:   2026-04-01 20:08:37 -0500
+date:   2026-04-01 12:00:00 -0500
 categories: game
 image: /img/wordscapes/wordscapes-cover.jpg
 tags: featured game
